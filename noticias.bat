@@ -1,0 +1,1 @@
+start "" "COLOCAR O ENDEREÇO DO .VBS AQUI!"
